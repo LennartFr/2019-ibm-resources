@@ -10,4 +10,4 @@
 
 ### [Watson Conversation Demo](https://conversation-demo.ng.bluemix.net)
 
-# [IBM Developer Patterns]()
+# [IBM Code Patterns](https://developer.ibm.com/patterns/category/python/)
