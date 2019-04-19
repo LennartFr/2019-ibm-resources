@@ -2,8 +2,7 @@
 
 # [IBM Cloud:](https://cloud.ibm.com).
 
-## [Public/Private/Hybrid] (https://www.ibm.com/cloud/hybrid)
-
+## [Public/Private/Hybrid](https://www.ibm.com/cloud/hybrid)
 
 ## [IBM Cloud catalog](https://cloud.ibm.com/catalog)
 
