@@ -1,6 +1,9 @@
 # 2019-ibm-resources
 
-# [IBM Cloud](https://cloud.ibm.com)
+# [IBM Cloud:](https://cloud.ibm.com).
+
+## [Public/Private/Hybrid] (https://www.ibm.com/cloud/hybrid)
+
 
 ## [IBM Cloud catalog](https://cloud.ibm.com/catalog)
 
