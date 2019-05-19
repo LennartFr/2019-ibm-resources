@@ -10,6 +10,8 @@
 
 ### [Watson Visual Recognition Demo](https://www.ibm.com/watson/services/visual-recognition/demo/#demo) 
 
+#### [Analyzing images using Visual Recognition built-in models](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/visual-recognition-built-in.html)
+
 ### [Watson Conversation Demo](https://conversation-demo.ng.bluemix.net)
 
 # [IBM Code Patterns](https://developer.ibm.com/patterns/category/python/)
